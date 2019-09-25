@@ -1,4 +1,4 @@
 # meteorite-impact-map-webapp
-Deployed at [git@github.com:mcbadger88/meteorite-impact-map-webapp.git]
+Deployed at [git@github.com:mcbadger88/meteorite-impact-map-webapp.git](git@github.com:mcbadger88/meteorite-impact-map-webapp.git)
 
 Feedback welcome !
